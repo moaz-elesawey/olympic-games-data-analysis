@@ -1,3 +1,3 @@
 # Summer Olympics Dataset Analysis
 
-[Dashboard](OlympicsDashboard.png)
+![Dashboard](Olympics Dashboard.png)
